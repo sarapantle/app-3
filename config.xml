@@ -2,13 +2,13 @@
 
 <widget xmlns ="http://www.w3.org/ns/widgets"
   xmlns:gap ="http://phonegap.com/ns/1.0"
-  id ="com.phonegap.app2"
+  id ="com.phonegap.app3"
    version ="1.0.0">
    
    <name>DIA MUNDIAL DE LA SALUD</name>
    
    <description>
-     Aplicacion que nos muestra la informacion  sobre la especialidad de Tecnico en Programacion CBTis
+     Aplicacion que nos muestra la informacion  sobre del dia mundial de la salud.
    </description>
    
    <author href="https://build.phonegap.com" email="sarapantle23@gmail.com">
